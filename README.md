@@ -1,7 +1,9 @@
 PHPStorm-SpaceCock
 ==================
 
-An attempt at a decent PHPStorm setup based on [SpaceGray](http://kkga.github.io/spacegray/) and [Peacocks in Space](https://github.com/daylerees/colour-schemes/blob/master/PeacocksInSpace.tmTheme).
+An attempt at a decent PHPStorm setup based on [SpaceGray](http://kkga.github.io/spacegray/) and [Peacocks in Space](https://github.com/daylerees/colour-schemes/blob/master/PeacocksInSpace.tmTheme) and Sublime Text keymappings.
+
+![SpaceCock Screenshot](https://raw2.github.com/ShawnMcCool/PHPStorm-SpaceCock/master/screenshot.png)
 
 # Color Theme
 
