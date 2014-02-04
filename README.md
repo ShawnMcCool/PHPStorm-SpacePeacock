@@ -9,7 +9,6 @@ Definitely use this with the Darcula theme. Unfortunately, a fundamental lack of
 
 The syntax color scheme has only been designed for 'general' and 'PHP', so far. I'll be updating HTML etc eventually.
 
-The color scheme is based on a combination of SpaceGray for Sublime Text and Peacocks in Space for Sublime Text.
 
 # Key Maps
 
