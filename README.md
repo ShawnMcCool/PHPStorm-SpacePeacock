@@ -6,7 +6,7 @@ A Sublime Text total-conversation for PHPStorm. With colors based on [SpaceGray]
 
 ## Color Theme
 
-Definitely use this with the Darcula theme. Unfortunately, a fundamental lack of customization in PHPStorm prevents me from being able to clean up the **awful** looking icons in the project bar, or adjust the colors.
+Definitely use this with the Darcula theme. Unfortunately, a fundamental lack of customization in PHPStorm prevents me from being able to clean up the project bar, or adjust the colors. I did recently get a hot tip on how to customize the icons, so I'll be going down that road shortly... My goal there is to either completely remove them, or if that's not possible, dramatically reduce the amount of individual icon types.
 
 The syntax color scheme has only been designed for 'general' and 'PHP', so far. I'll be updating HTML etc eventually.
 
