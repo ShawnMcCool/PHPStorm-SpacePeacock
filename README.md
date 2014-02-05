@@ -24,10 +24,12 @@ Additionally, "search everywhere" HAD to be changed because double-tapping left-
 
 `ctrl + alt + p` change projects
 
-`ctrl + shift + enter` finish statement
+`ctrl + shift + enter` finish a code statement
+
+`ctrl + alt + enter` refactor this
 
 `alt + enter` solve issue (whatever it's called)
 
-`ctrl + alt + enter` refactor this
+`ctrl + n` new thing dialog
 
 There are others, as I think of them, I'll add them here.
