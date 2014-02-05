@@ -1,4 +1,4 @@
-# PHPStorm-SpacePeacock v1.3
+# PHPStorm-SpacePeacock v1.4
 
 A Sublime Text total-conversation for PHPStorm. With colors based on [SpaceGray](http://kkga.github.io/spacegray/) and [Peacocks in Space](https://github.com/daylerees/colour-schemes/blob/master/PeacocksInSpace.tmTheme) and Sublime Text keymappings.
 
@@ -38,7 +38,13 @@ Additionally, "search everywhere" HAD to be changed because double-tapping left-
 
 `ctrl + n` new thing dialog
 
+`ctrl + shift + F` reformat code
+
 There are others, as I think of them, I'll add them here.
+
+## Coming Soon
+
+My goal is to replace the IDE colors with colors that match the scheme. Also, I'm going to either remove the project sidebar icons (folder and file icons) completely, or if that's not possible, come up with a simple and unobtrusive folder / file icon and replace them as necessary to clean up that sidebar.
 
 ## Changelog
 
@@ -55,3 +61,9 @@ add `ctrl + shift + p` for search everywhere
 ### 1.3
 
 change name to SpacePeacock and rebrand as a total-conversion
+
+### 1.4
+
+enable smartquotes so that highlighting a string and typing a quote results in a quoted string
+
+add a bit more contrast to the background for users without fully adobergb gamut compliant monitors
