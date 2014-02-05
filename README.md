@@ -1,9 +1,9 @@
-PHPStorm-SpaceCock v1.2
+PHPStorm-SpacePeacock v1.3
 ==================
 
 A Sublime Text total-conversation for PHPStorm. With colors based on [SpaceGray](http://kkga.github.io/spacegray/) and [Peacocks in Space](https://github.com/daylerees/colour-schemes/blob/master/PeacocksInSpace.tmTheme) and Sublime Text keymappings.
 
-![SpaceCock Screenshot](https://raw2.github.com/ShawnMcCool/PHPStorm-SpaceCock/master/screenshot.png)
+![SpacePeacock Screenshot](https://raw2.github.com/ShawnMcCool/PHPStorm-SpacePeacock/master/screenshot.png)
 
 # Color Theme
 
@@ -34,14 +34,18 @@ Additionally, "search everywhere" HAD to be changed because double-tapping left-
 
 There are others, as I think of them, I'll add them here.
 
-# Changelog
+## Changelog
 
-## 1.1
+### 1.1
 
 add `ctrl + n` keystroke
 
-## 1.2
+### 1.2
 
 change `ctrl + p` from search everywhere to search files (search everywhere is just too insanely slow)
 
 add `ctrl + shift + p` for search everywhere
+
+### 1.3
+
+change name to SpacePeacock and rebrand as a total-conversion
