@@ -1,7 +1,7 @@
-PHPStorm-SpaceCock v1.1
+PHPStorm-SpaceCock v1.2
 ==================
 
-An attempt at a decent PHPStorm setup based on [SpaceGray](http://kkga.github.io/spacegray/) and [Peacocks in Space](https://github.com/daylerees/colour-schemes/blob/master/PeacocksInSpace.tmTheme) and Sublime Text keymappings.
+A Sublime Text total-conversation for PHPStorm. With colors based on [SpaceGray](http://kkga.github.io/spacegray/) and [Peacocks in Space](https://github.com/daylerees/colour-schemes/blob/master/PeacocksInSpace.tmTheme) and Sublime Text keymappings.
 
 ![SpaceCock Screenshot](https://raw2.github.com/ShawnMcCool/PHPStorm-SpaceCock/master/screenshot.png)
 
@@ -39,3 +39,9 @@ There are others, as I think of them, I'll add them here.
 ## 1.1
 
 add `ctrl + n` keystroke
+
+## 1.2
+
+change `ctrl + p` from search everywhere to search files (search everywhere is just too insanely slow)
+
+add `ctrl + shift + p` for search everywhere
