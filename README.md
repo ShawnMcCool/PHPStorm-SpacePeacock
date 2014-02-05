@@ -42,6 +42,10 @@ Additionally, "search everywhere" HAD to be changed because double-tapping left-
 
 There are others, as I think of them, I'll add them here.
 
+## Importing These Settings
+
+Download this project (or just the .jar file) to your computer. In PHPStorm, choose File -> Import Settings, and import the .jar file. If you don't see the File menu, you may need to open a directory or a project first.
+
 ## Coming Soon
 
 My goal is to replace the IDE colors with colors that match the scheme. Also, I'm going to either remove the project sidebar icons (folder and file icons) completely, or if that's not possible, come up with a simple and unobtrusive folder / file icon and replace them as necessary to clean up that sidebar.
