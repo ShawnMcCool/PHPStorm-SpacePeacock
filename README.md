@@ -10,7 +10,7 @@ Definitely use this with the Darcula theme. Unfortunately, a fundamental lack of
 
 The syntax color scheme has only been designed for 'general' and 'PHP', so far. I'll be updating HTML etc eventually.
 
-## Font
+## Fonts
 
 Use Java 7 if you want the best font rendering on Linux possible.
 
