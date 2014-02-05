@@ -1,18 +1,17 @@
-PHPStorm-SpacePeacock v1.3
-==================
+# PHPStorm-SpacePeacock v1.3
 
 A Sublime Text total-conversation for PHPStorm. With colors based on [SpaceGray](http://kkga.github.io/spacegray/) and [Peacocks in Space](https://github.com/daylerees/colour-schemes/blob/master/PeacocksInSpace.tmTheme) and Sublime Text keymappings.
 
 ![SpacePeacock Screenshot](https://raw2.github.com/ShawnMcCool/PHPStorm-SpacePeacock/master/screenshot.png)
 
-# Color Theme
+## Color Theme
 
 Definitely use this with the Darcula theme. Unfortunately, a fundamental lack of customization in PHPStorm prevents me from being able to clean up the **awful** looking icons in the project bar, or adjust the colors.
 
 The syntax color scheme has only been designed for 'general' and 'PHP', so far. I'll be updating HTML etc eventually.
 
 
-# Key Maps
+## Key Maps
 
 The key mapping has been updated to better fit Sublime Text conventions. Because I didn't think that `ctrl + shift + alt + t` is a reasonable key combination for something as frequently used as **Refactor This**.
 
