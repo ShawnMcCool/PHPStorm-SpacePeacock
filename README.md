@@ -1,4 +1,4 @@
-PHPStorm-SpaceCock
+PHPStorm-SpaceCock v1.1
 ==================
 
 An attempt at a decent PHPStorm setup based on [SpaceGray](http://kkga.github.io/spacegray/) and [Peacocks in Space](https://github.com/daylerees/colour-schemes/blob/master/PeacocksInSpace.tmTheme) and Sublime Text keymappings.
@@ -33,3 +33,9 @@ Additionally, "search everywhere" HAD to be changed because double-tapping left-
 `ctrl + n` new thing dialog
 
 There are others, as I think of them, I'll add them here.
+
+# Changelog
+
+## 1.1
+
+add `ctrl + n` keystroke
