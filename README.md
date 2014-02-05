@@ -10,6 +10,13 @@ Definitely use this with the Darcula theme. Unfortunately, a fundamental lack of
 
 The syntax color scheme has only been designed for 'general' and 'PHP', so far. I'll be updating HTML etc eventually.
 
+## Font
+
+Use Java 7 if you want the best font rendering on Linux possible.
+
+The font used is Source Code Pro. I tried other fonts that I prefer such as DejaVu Sans Mono, but Java 7 didn't render them so hot. So, I stuck with that one.
+
+The font size may be a bit big when you import. Sorry about that, I'm running 2560x1440 and I'm exporting new versions of the configuration so often that it's just better to leave it at my current settings. But, it's just a single configuration to fix it for your preference.
 
 ## Key Maps
 
