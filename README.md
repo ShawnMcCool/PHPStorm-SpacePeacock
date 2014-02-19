@@ -10,6 +10,14 @@ Definitely use this with the Darcula theme. Unfortunately, a fundamental lack of
 
 The syntax color scheme has only been designed for 'general' and 'PHP', so far. I'll be updating HTML etc eventually.
 
+## Installation
+
+- Download this project (or just the .jar file) to your computer. 
+
+- In PHPStorm, choose File -> Import Settings, and import the .jar file. (If you don't see the File menu, you may need to open a directory or a project first.)
+
+- If you are using OSX then you need import `PHPstorm-key-mappings.jar` after importing the main theme. This will fix your OSX specific keybindings.
+
 ## Fonts
 
 Use Java 7 if you want the best font rendering on Linux possible.
@@ -41,6 +49,7 @@ Additionally, "search everywhere" HAD to be changed because double-tapping left-
 `ctrl + shift + F` reformat code
 
 There are others, as I think of them, I'll add them here.
+
 
 ## Coming Soon
 
