@@ -30,11 +30,11 @@ Additionally, "search everywhere" HAD to be changed because double-tapping left-
 
 `ctrl + alt + p` change projects
 
-`ctrl + shift + enter` finish a code statement
+`ctrl + shift + enter` complete current statement
 
 `ctrl + alt + enter` refactor this
 
-`alt + enter` solve issue (whatever it's called)
+`alt + enter` show intended actions (intentions are one of my favorite part JetBrains software)
 
 `ctrl + n` new thing dialog
 
