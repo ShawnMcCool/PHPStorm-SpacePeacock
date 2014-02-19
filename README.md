@@ -1,4 +1,4 @@
-# PHPStorm-SpacePeacock v1.4
+# PHPStorm-SpacePeacock v1.5
 
 A Sublime Text total-conversation for PHPStorm. With colors based on [SpaceGray](http://kkga.github.io/spacegray/) and [Peacocks in Space](https://github.com/daylerees/colour-schemes/blob/master/PeacocksInSpace.tmTheme) and Sublime Text keymappings.
 
@@ -76,3 +76,8 @@ change name to SpacePeacock and rebrand as a total-conversion
 enable smartquotes so that highlighting a string and typing a quote results in a quoted string
 
 add a bit more contrast to the background for users without fully adobergb gamut compliant monitors
+
+### 1.5
+
+add OSX key mappings
+improve various templates
