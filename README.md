@@ -16,7 +16,7 @@ The syntax color scheme has only been designed for 'general' and 'PHP', so far. 
 
 - In PHPStorm, choose File -> Import Settings, and import the .jar file. (If you don't see the File menu, you may need to open a directory or a project first.)
 
-- If you are using OSX then you need import `PHPstorm-key-mappings.jar` after importing the main theme. This will fix your OSX specific keybindings.
+- If you are using OSX then you need import `PHPStorm-SpacePeacock-osx-key-mappings.jar` after importing the main theme. This will fix your OSX specific keybindings.
 
 ## Fonts
 
