@@ -1,4 +1,4 @@
-# PHPStorm-SpacePeacock v1.4
+# PHPStorm-SpacePeacock v1.5
 
 A Sublime Text total-conversation for PHPStorm. With colors based on [SpaceGray](http://kkga.github.io/spacegray/) and [Peacocks in Space](https://github.com/daylerees/colour-schemes/blob/master/PeacocksInSpace.tmTheme) and Sublime Text keymappings.
 
@@ -20,7 +20,7 @@ The syntax color scheme has only been designed for 'general' and 'PHP', so far. 
 
 - (optional) Install the plugin [Idea11 Icon Pack](http://plugins.jetbrains.com/plugin/7285?pr=) to reduce the fugly in the sidebar.
 
-- If you are using OSX then you need import `PHPstorm-key-mappings.jar` after importing the main theme. This will fix your OSX specific keybindings.
+- If you are using OSX then you need import `PHPStorm-SpacePeacock-osx-key-mappings.jar` after importing the main theme. This will fix your OSX specific keybindings.
 
 ## Fonts
 
@@ -80,3 +80,8 @@ change name to SpacePeacock and rebrand as a total-conversion
 enable smartquotes so that highlighting a string and typing a quote results in a quoted string
 
 add a bit more contrast to the background for users without fully adobergb gamut compliant monitors
+
+### 1.5
+
+add OSX key mappings
+improve various templates
