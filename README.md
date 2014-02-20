@@ -12,9 +12,13 @@ The syntax color scheme has only been designed for 'general' and 'PHP', so far. 
 
 ## Installation
 
-- Download this project (or just the .jar file) to your computer. 
+- Download this project (or just the .jar file) to your computer.
 
 - In PHPStorm, choose File -> Import Settings, and import the .jar file. (If you don't see the File menu, you may need to open a directory or a project first.)
+
+- Install the plugin [ColorTree](http://plugins.jetbrains.com/plugin/7058?pr=) to style the sidebar colors
+
+- (optional) Install the plugin [Idea11 Icon Pack](http://plugins.jetbrains.com/plugin/7285?pr=) to reduce the fugly in the sidebar.
 
 - If you are using OSX then you need import `PHPstorm-key-mappings.jar` after importing the main theme. This will fix your OSX specific keybindings.
 
