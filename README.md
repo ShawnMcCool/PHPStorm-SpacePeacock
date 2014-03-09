@@ -20,13 +20,19 @@ The syntax color scheme has only been designed for 'general' and 'PHP', so far. 
 
 - (optional) Install the plugin [Idea11 Icon Pack](http://plugins.jetbrains.com/plugin/7285?pr=) to reduce the fugly in the sidebar.
 
-- If you are using OSX then you need import `PHPStorm-SpacePeacock-osx-key-mappings.jar` after importing the main theme. This will fix your OSX specific keybindings.
+> If you are using OSX then you need import `PHPStorm-SpacePeacock-osx-key-mappings.jar` after importing the main theme. This will fix your OSX specific keybindings.
 
-## Fonts
+## Improve the Font Rendering on Linux
 
-Use Java 7 if you want the best font rendering on Linux possible.
+If you are using Linux then you **NEED** to alter your bin/phpstorm.vmoptions (for 32-bit) or bin/phpstorm64.vmoptions (for 64-bit) to remove the useSystemAAFontSettings declaration and replace it with these three lines:
 
-The font used is Source Code Pro. I tried other fonts that I prefer such as DejaVu Sans Mono, but Java 7 didn't render them so hot. So, I stuck with that one.
+    -Dswing.aatext=true
+    -Dsun.java2d.xrender=true
+    -Dawt.useSystemAAFontSettings=gasp
+
+Use Oracle's Java 7 if you want the best font rendering on Linux possible.
+
+The font that I use is Source Code Pro. I tried other fonts that I prefer such as DejaVu Sans Mono, but Java 7 didn't render them so hot. So, I stuck with that one.
 
 The font size may be a bit big when you import. Sorry about that, I'm running 2560x1440 and I'm exporting new versions of the configuration so often that it's just better to leave it at my current settings. But, it's just a single configuration to fix it for your preference.
 
@@ -51,6 +57,8 @@ Additionally, "search everywhere" HAD to be changed because double-tapping left-
 `ctrl + n` new thing dialog
 
 `ctrl + shift + F` reformat code
+
+`ctrl + d` select word at cursor, or if a word is selected the select the next occurrence of the word (multiple-cursors)
 
 There are others, as I think of them, I'll add them here.
 
@@ -85,3 +93,8 @@ add a bit more contrast to the background for users without fully adobergb gamut
 
 add OSX key mappings
 improve various templates
+
+### 1.6
+
+add more Linux-specific documentation
+upgrade to support `ctrl + d` mapping
