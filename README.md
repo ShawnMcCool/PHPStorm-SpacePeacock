@@ -1,4 +1,4 @@
-# PHPStorm-SpacePeacock v1.5
+# PHPStorm-SpacePeacock v1.6 (March 9th, 2014)
 
 A Sublime Text total-conversation for PHPStorm. With colors based on [SpaceGray](http://kkga.github.io/spacegray/) and [Peacocks in Space](https://github.com/daylerees/colour-schemes/blob/master/PeacocksInSpace.tmTheme) and Sublime Text keymappings.
 
