@@ -1,4 +1,6 @@
-# PHPStorm-SpacePeacock v1.5
+# PHPStorm-SpacePeacock v1.6
+
+March 9th, 2014
 
 A Sublime Text total-conversation for PHPStorm. With colors based on [SpaceGray](http://kkga.github.io/spacegray/) and [Peacocks in Space](https://github.com/daylerees/colour-schemes/blob/master/PeacocksInSpace.tmTheme) and Sublime Text keymappings.
 
@@ -18,7 +20,7 @@ The syntax color scheme has only been designed for 'general' and 'PHP', so far. 
 
 - Install the plugin [ColorIDE](http://plugins.jetbrains.com/plugin/7055?pr) to set the colors of the rest of the IDE.
 
-- (optional) Install the plugin [Idea11 Icon Pack](http://plugins.jetbrains.com/plugin/7285?pr=) to reduce the fugly in the sidebar.
+- (optional) Install the plugin [Idea11 Icon Pack](http://plugins.jetbrains.com/plugin/7285?pr=) for the icons in the screenshot, or just leave the new icons if you prefer them.
 
 > If you are using OSX then you need import `PHPStorm-SpacePeacock-osx-key-mappings.jar` after importing the main theme. This will fix your OSX specific keybindings.
 
