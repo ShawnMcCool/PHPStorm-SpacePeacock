@@ -34,9 +34,7 @@ If you are using Linux then you **NEED** to alter your bin/phpstorm.vmoptions (f
 
 Use Oracle's Java 7 if you want the best font rendering on Linux possible.
 
-The font that I use is Source Code Pro. I tried other fonts that I prefer such as DejaVu Sans Mono, but Java 7 didn't render them so hot. So, I stuck with that one.
-
-The font size may be a bit big when you import. Sorry about that, I'm running 2560x1440 and I'm exporting new versions of the configuration so often that it's just better to leave it at my current settings. But, it's just a single configuration to fix it for your preference.
+The font that used is Source Code Pro.
 
 ## Key Maps
 
@@ -63,11 +61,6 @@ Additionally, "search everywhere" HAD to be changed because double-tapping left-
 `ctrl + d` select word at cursor, or if a word is selected the select the next occurrence of the word (multiple-cursors)
 
 There are others, as I think of them, I'll add them here.
-
-
-## Coming Soon
-
-My goal is to replace the IDE colors with colors that match the scheme. Also, I'm going to either remove the project sidebar icons (folder and file icons) completely, or if that's not possible, come up with a simple and unobtrusive folder / file icon and replace them as necessary to clean up that sidebar.
 
 ## Changelog
 
