@@ -16,11 +16,11 @@ The syntax color scheme has only been designed for 'general' and 'PHP', so far. 
 
 - Download this project (or just the .jar file) to your computer.
 
+- In PHPStorm under settings, choose the Darcula theme. 
+
 - In PHPStorm, choose File -> Import Settings, and import the .jar file. (If you don't see the File menu, you may need to open a directory or a project first.)
 
 - Install the plugin [ColorIDE](http://plugins.jetbrains.com/plugin/7055?pr) to set the colors of the rest of the IDE.
-
-- (optional) Install the plugin [Idea11 Icon Pack](http://plugins.jetbrains.com/plugin/7285?pr=) for the icons in the screenshot, or just leave the new icons if you prefer them.
 
 > If you are using OSX then you need import `PHPStorm-SpacePeacock-osx-key-mappings.jar` after importing the main theme. This will fix your OSX specific keybindings.
 
