@@ -6,21 +6,17 @@ A Sublime Text total-conversation for PHPStorm. With colors based on [SpaceGray]
 
 ![SpacePeacock Screenshot](https://raw2.github.com/ShawnMcCool/PHPStorm-SpacePeacock/master/screenshot.png)
 
-## Color Theme
-
-Definitely use this with the Darcula theme. Unfortunately, a fundamental lack of customization in PHPStorm prevents me from being able to clean up the project bar, or adjust the colors. I did recently get a hot tip on how to customize the icons, so I'll be going down that road shortly... My goal there is to either completely remove them, or if that's not possible, dramatically reduce the amount of individual icon types.
-
-The syntax color scheme has only been designed for 'general' and 'PHP', so far. I'll be updating HTML etc eventually.
+Some syntax types have not been updated. I'd be happy to accept pull requests that updated unsupported syntax types to match the php styles. In general though, things work nicely.
 
 ## Installation
 
 - Download this project (or just the .jar file) to your computer.
 
+- In PHPStorm under settings, choose the Darcula theme. 
+
 - In PHPStorm, choose File -> Import Settings, and import the .jar file. (If you don't see the File menu, you may need to open a directory or a project first.)
 
 - Install the plugin [ColorIDE](http://plugins.jetbrains.com/plugin/7055?pr) to set the colors of the rest of the IDE.
-
-- (optional) Install the plugin [Idea11 Icon Pack](http://plugins.jetbrains.com/plugin/7285?pr=) for the icons in the screenshot, or just leave the new icons if you prefer them.
 
 > If you are using OSX then you need import `PHPStorm-SpacePeacock-osx-key-mappings.jar` after importing the main theme. This will fix your OSX specific keybindings.
 
@@ -34,9 +30,7 @@ If you are using Linux then you **NEED** to alter your bin/phpstorm.vmoptions (f
 
 Use Oracle's Java 7 if you want the best font rendering on Linux possible.
 
-The font that I use is Source Code Pro. I tried other fonts that I prefer such as DejaVu Sans Mono, but Java 7 didn't render them so hot. So, I stuck with that one.
-
-The font size may be a bit big when you import. Sorry about that, I'm running 2560x1440 and I'm exporting new versions of the configuration so often that it's just better to leave it at my current settings. But, it's just a single configuration to fix it for your preference.
+The font that used is Source Code Pro.
 
 ## Key Maps
 
@@ -69,11 +63,6 @@ Additionally, "search everywhere" HAD to be changed because double-tapping left-
 `ctrl + alt + r` git conflict merge tool
 
 There are others, as I think of them, I'll add them here.
-
-
-## Coming Soon
-
-My goal is to replace the IDE colors with colors that match the scheme. Also, I'm going to either remove the project sidebar icons (folder and file icons) completely, or if that's not possible, come up with a simple and unobtrusive folder / file icon and replace them as necessary to clean up that sidebar.
 
 ## Changelog
 
