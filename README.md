@@ -58,9 +58,15 @@ Additionally, "search everywhere" HAD to be changed because double-tapping left-
 
 `ctrl + n` new thing dialog
 
-`ctrl + shift + F` reformat code
+`ctrl + shift + f` format code
 
 `ctrl + d` select word at cursor, or if a word is selected the select the next occurrence of the word (multiple-cursors)
+
+`ctrl + t` run tests
+
+`ctrl + alt + h` show local history
+
+`ctrl + alt + r` git conflict merge tool
 
 There are others, as I think of them, I'll add them here.
 
@@ -100,3 +106,9 @@ improve various templates
 
 add more Linux-specific documentation
 upgrade to support `ctrl + d` mapping
+
+### 1.7
+
+`ctrl + t` now runs tests
+`ctrl + alt + h` now shows local history
+`ctrl + alt + r` now shows the git merge tool
