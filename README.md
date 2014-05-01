@@ -22,7 +22,9 @@ Some syntax types have not been updated. I'd be happy to accept pull requests th
 
 ## Improve the Font Rendering on Linux
 
-If you are using Linux then you **NEED** to alter your bin/phpstorm.vmoptions (for 32-bit) or bin/phpstorm64.vmoptions (for 64-bit) to remove the useSystemAAFontSettings declaration and replace it with these three lines:
+If you are using Linux then you may need to alter your bin/phpstorm.vmoptions (for 32-bit) or bin/phpstorm64.vmoptions (for 64-bit) to remove the useSystemAAFontSettings declaration and replace it with these three lines:
+
+It's important that you back up your settings and compare the results both ways. In Ubuntu 13.10 these settings improved the display dramatically. In 14.04 these settings actually reduce the quality slightly.
 
     -Dswing.aatext=true
     -Dsun.java2d.xrender=true
