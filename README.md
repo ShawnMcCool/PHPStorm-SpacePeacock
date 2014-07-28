@@ -103,3 +103,8 @@ upgrade to support `ctrl + d` mapping
 `ctrl + t` now runs tests
 `ctrl + alt + h` now shows local history
 `ctrl + alt + r` now shows the git merge tool
+
+### 1.8
+
+Separate Styles / Keymaps files
+Add Blade Templating styles
