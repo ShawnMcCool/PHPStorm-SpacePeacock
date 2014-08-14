@@ -20,7 +20,9 @@ Some syntax types have not been updated. I'd be happy to accept pull requests th
 
 > If you are using OSX then you need import `PHPStorm-SpacePeacock-osx-key-mappings.jar` after importing the main theme. This will fix your OSX specific keybindings.
 
-## Improve the Font Rendering on Linux
+## Font Rendering
+
+The font used in the screenshot is Source Code Pro.
 
 If you are using Linux then you may need to alter your bin/phpstorm.vmoptions (for 32-bit) or bin/phpstorm64.vmoptions (for 64-bit) to remove the useSystemAAFontSettings declaration and replace it with these three lines:
 
@@ -30,9 +32,7 @@ It's important that you back up your settings and compare the results both ways.
     -Dsun.java2d.xrender=true
     -Dawt.useSystemAAFontSettings=gasp
 
-Use Oracle's Java 7 if you want the best font rendering on Linux possible.
-
-The font that used is Source Code Pro.
+Use Oracle's Java 8 if you want the best font rendering on Linux possible. More info here: https://intellij-support.jetbrains.com/entries/23455956-Selecting-the-JDK-version-the-IDE-will-run-under
 
 ## Key Maps
 
