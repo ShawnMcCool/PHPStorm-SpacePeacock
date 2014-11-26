@@ -4,7 +4,7 @@ July 28th, 2014
 
 A Sublime Text total-conversation for PHPStorm. With colors based on [SpaceGray](http://kkga.github.io/spacegray/) and [Peacocks in Space](https://github.com/daylerees/colour-schemes/blob/master/PeacocksInSpace.tmTheme) and Sublime Text keymappings.
 
-![SpacePeacock Screenshot](https://raw2.github.com/ShawnMcCool/PHPStorm-SpacePeacock/master/screenshot.png)
+![SpacePeacock Screenshot](https://raw.githubusercontent.com/ShawnMcCool/PHPStorm-SpacePeacock/master/screenshot.png)
 
 Some syntax types have not been updated. I'd be happy to accept pull requests that updated unsupported syntax types to match the php styles. In general though, things work nicely.
 
