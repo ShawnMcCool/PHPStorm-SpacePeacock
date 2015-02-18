@@ -77,6 +77,12 @@
   <action id="Refresh" />
   <action id="Replace" />
   <action id="Rerun" />
+  <action id="ResizeToolWindowDown">
+    <keyboard-shortcut first-keystroke="control meta SUBTRACT" />
+  </action>
+  <action id="ResizeToolWindowUp">
+    <keyboard-shortcut first-keystroke="control meta ADD" />
+  </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="meta P" />
   </action>
