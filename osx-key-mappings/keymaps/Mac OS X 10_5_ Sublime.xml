@@ -53,6 +53,18 @@
     <keyboard-shortcut first-keystroke="shift alt UP" />
   </action>
   <action id="IntroduceParameter" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="control meta DOWN" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="control meta UP" />
+  </action>
+  <action id="MoveStatementDown">
+    <keyboard-shortcut first-keystroke="shift control meta DOWN" />
+  </action>
+  <action id="MoveStatementUp">
+    <keyboard-shortcut first-keystroke="shift control meta UP" />
+  </action>
   <action id="ParameterInfo" />
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="control T" />
