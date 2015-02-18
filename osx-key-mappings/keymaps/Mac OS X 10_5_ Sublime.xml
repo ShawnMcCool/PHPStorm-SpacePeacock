@@ -86,6 +86,9 @@
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="meta P" />
   </action>
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="alt HOME" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="control alt ENTER" />
   </action>
