@@ -1,0 +1,6 @@
+com.intellij
+ColorIde
+Scratch
+com.codeivate.plugin
+de.espend.idea.php.annotation
+net.king2500.plugins.PhpAdvancedAutoComplete
