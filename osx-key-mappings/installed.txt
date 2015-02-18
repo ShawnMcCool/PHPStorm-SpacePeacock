@@ -1,2 +1,0 @@
-com.intellij
-BashSupport
