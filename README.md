@@ -68,35 +68,11 @@ There are others, as I think of them, I'll add them here.
 
 ## Changelog
 
-### 1.1
 
-add `ctrl + n` keystroke
+### 1.8
 
-### 1.2
-
-change `ctrl + p` from search everywhere to search files (search everywhere is just too insanely slow)
-
-add `ctrl + shift + p` for search everywhere
-
-### 1.3
-
-change name to SpacePeacock and rebrand as a total-conversion
-
-### 1.4
-
-enable smartquotes so that highlighting a string and typing a quote results in a quoted string
-
-add a bit more contrast to the background for users without fully adobergb gamut compliant monitors
-
-### 1.5
-
-add OSX key mappings
-improve various templates
-
-### 1.6
-
-add more Linux-specific documentation
-upgrade to support `ctrl + d` mapping
+Separate Styles / Keymaps files
+Add Blade Templating styles
 
 ### 1.7
 
@@ -104,7 +80,32 @@ upgrade to support `ctrl + d` mapping
 `ctrl + alt + h` now shows local history
 `ctrl + alt + r` now shows the git merge tool
 
-### 1.8
+### 1.6
 
-Separate Styles / Keymaps files
-Add Blade Templating styles
+add more Linux-specific documentation
+upgrade to support `ctrl + d` mapping
+
+### 1.5
+
+add OSX key mappings
+improve various templates
+
+### 1.4
+
+enable smartquotes so that highlighting a string and typing a quote results in a quoted string
+
+add a bit more contrast to the background for users without fully adobergb gamut compliant monitors
+
+### 1.3
+
+change name to SpacePeacock and rebrand as a total-conversion
+
+### 1.2
+
+change `ctrl + p` from search everywhere to search files (search everywhere is just too insanely slow)
+
+add `ctrl + shift + p` for search everywhere
+
+### 1.1
+
+add `ctrl + n` keystroke
