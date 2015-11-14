@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="CallHierarchy" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="control F4" />
+    <keyboard-shortcut first-keystroke="control W" />
+  </action>
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="control alt P" />
+  </action>
+  <action id="CompareDirs" />
+  <action id="CompareJars" />
+  <action id="CompareTwoFiles" />
+  <action id="Console.Jpa.GenerateSql" />
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="alt ENTER" />
+  </action>
+  <action id="Console.TableResult.Reload" />
+  <action id="DatabaseView.CopyAction">
+    <keyboard-shortcut first-keystroke="shift control D" />
+  </action>
+  <action id="DatabaseView.ShowDiff" />
+  <action id="Diff.SelectedChange" />
+  <action id="Diff.UpdatedFiles" />
+  <action id="EditorChooseLookupItemCompleteStatement" />
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift control D" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="EditorStartNewLineBefore" />
+  <action id="FileChooser.NewFolder" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="control F12" />
+    <keyboard-shortcut first-keystroke="control R" />
+  </action>
+  <action id="FindInPath" />
+  <action id="Git.ResolveConflicts">
+    <keyboard-shortcut first-keystroke="control alt R" />
+  </action>
+  <action id="GotoClass" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="control P" />
+    <keyboard-shortcut first-keystroke="shift control N" />
+  </action>
+  <action id="ImplementMethods">
+    <keyboard-shortcut first-keystroke="shift control I" />
+  </action>
+  <action id="IncrementalSearch">
+    <keyboard-shortcut first-keystroke="control I" />
+  </action>
+  <action id="IntroduceParameter" />
+  <action id="LocalHistory.ShowHistory">
+    <keyboard-shortcut first-keystroke="control alt H" />
+  </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="control N" />
+    <keyboard-shortcut first-keystroke="alt INSERT" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="alt RIGHT" />
+    <keyboard-shortcut first-keystroke="alt S" />
+  </action>
+  <action id="ParameterInfo" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="alt LEFT" />
+    <keyboard-shortcut first-keystroke="alt H" />
+  </action>
+  <action id="QuickImplementations" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="shift control alt T" />
+    <keyboard-shortcut first-keystroke="control alt ENTER" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="control alt L" />
+    <keyboard-shortcut first-keystroke="shift control F" />
+  </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="control H" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift F10" />
+    <keyboard-shortcut first-keystroke="control T" />
+  </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="shift control P" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="alt J" />
+    <keyboard-shortcut first-keystroke="control D" />
+  </action>
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="shift alt T" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt ENTER" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt DOWN" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt LEFT" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt RIGHT" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt UP" />
+  </action>
+  <action id="TypeHierarchy" />
+  <action id="Uml.ShowDiff" />
+  <action id="Vcs.UpdateProject" />
+  <action id="WelcomeScreen.ReopenRecent">
+    <keyboard-shortcut first-keystroke="shift control O" />
+  </action>
+</keymap>
+
