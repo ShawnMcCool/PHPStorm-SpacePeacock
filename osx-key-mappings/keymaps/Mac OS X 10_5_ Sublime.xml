@@ -40,7 +40,6 @@
     <keyboard-shortcut first-keystroke="meta F12" />
     <keyboard-shortcut first-keystroke="meta R" />
   </action>
-  <action id="FindInPath" />
   <action id="FrameSwitchAction">
     <keyboard-shortcut first-keystroke="alt F2" />
     <keyboard-shortcut first-keystroke="control meta P" />
