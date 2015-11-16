@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <keymap version="1" name="Mac OS X 10.5+ Sublime" parent="Mac OS X 10.5+">
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="meta alt P" />
   </action>
+  <action id="CompareTwoFiles" />
   <action id="Console.Jpa.GenerateSql" />
   <action id="Console.TableResult.AddRow">
     <keyboard-shortcut first-keystroke="control ENTER" />
@@ -13,8 +13,11 @@
   <action id="DatabaseView.AddAction">
     <keyboard-shortcut first-keystroke="control ENTER" />
   </action>
+  <action id="Diff.ShowDiff" />
   <action id="EditorChooseLookupItemCompleteStatement" />
+  <action id="EditorDuplicate" />
   <action id="EditorStartNewLineBefore" />
+  <action id="FileChooser.GotoDesktop" />
   <action id="EditorTextEnd">
     <keyboard-shortcut first-keystroke="meta END" />
     <keyboard-shortcut first-keystroke="meta DOWN" />
@@ -37,10 +40,12 @@
     <keyboard-shortcut first-keystroke="meta F12" />
     <keyboard-shortcut first-keystroke="meta R" />
   </action>
-  <action id="FindInPath" />
   <action id="FrameSwitchAction">
     <keyboard-shortcut first-keystroke="alt F2" />
     <keyboard-shortcut first-keystroke="control meta P" />
+  </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift control F" />
   </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="control ENTER" />
@@ -86,6 +91,11 @@
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="meta P" />
   </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="meta D" />
+  </action>
+  <action id="SendEOF" />
+  <action id="ShelvedChanges.Diff" />
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt HOME" />
   </action>
@@ -105,4 +115,3 @@
     <keyboard-shortcut first-keystroke="control alt UP" />
   </action>
 </keymap>
-
