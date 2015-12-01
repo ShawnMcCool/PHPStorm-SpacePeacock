@@ -2,7 +2,7 @@
 
 July 28th, 2014
 
-A Sublime Text total-conversation for PHPStorm. With colors based on [SpaceGray](http://kkga.github.io/spacegray/) and [Peacocks in Space](https://github.com/daylerees/colour-schemes/blob/master/PeacocksInSpace.tmTheme) and Sublime Text keymappings.
+A Sublime Text total-conversion for PHPStorm. With colors based on [SpaceGray](http://kkga.github.io/spacegray/) and [Peacocks in Space](https://github.com/daylerees/colour-schemes/blob/master/PeacocksInSpace.tmTheme) and Sublime Text keymappings.
 
 ![SpacePeacock Screenshot](https://raw.githubusercontent.com/ShawnMcCool/PHPStorm-SpacePeacock/master/screenshot.png)
 
